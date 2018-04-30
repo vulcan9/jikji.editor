@@ -6,8 +6,8 @@ Jik-ji Editor는 MIT 라이센스를 따릅니다.<br>
 ### Licensing of Platform
 #### NW.JS
 node-webkit's code uses the MIT license.
-https://github.com/nwjs/nw.js
-https://github.com/nwjs/nw.js/blob/nw30/LICENSE
+- https://github.com/nwjs/nw.js
+- https://github.com/nwjs/nw.js/blob/nw30/LICENSE
 
 ### Licensing of libraries
 #### MIT license.
