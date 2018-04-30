@@ -12,11 +12,17 @@ https://github.com/nwjs/nw.js/blob/nw30/LICENSE
 ### Licensing of libraries
 #### MIT license.
 The following libraries use the MIT licenses.
-[archiver](https://www.npmjs.com/package/archiver), async, decompress-zip, fs-extra, image-size, q, tmp
+- [archiver](https://www.npmjs.com/package/archiver) 
+- [async](https://www.npmjs.com/package/async)
+- [decompress-zip](https://www.npmjs.com/package/decompress-zip)
+- [fs-extra](https://www.npmjs.com/package/fs-extra)
+- [image-size](https://www.npmjs.com/package/image-size)
+- [q](https://www.npmjs.com/package/q)
+- [tmp](https://www.npmjs.com/package/tmp)
 
 #### Apache-2.0 license.
 The following libraries use the Apache-2.0 licenses.
-less
+- [less](https://www.npmjs.com/package/less)
 
 
 
