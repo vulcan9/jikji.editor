@@ -16,13 +16,26 @@ The following libraries use the MIT licenses.
 - [image-size](https://www.npmjs.com/package/image-size)
 - [q](https://www.npmjs.com/package/q)
 - [tmp](https://www.npmjs.com/package/tmp)
+- [codemirror](https://codemirror.net/)
+- [htmlhint](https://github.com/yaniswang/HTMLHint)
+- [jquery](https://jquery.org/license/)
+- [raphael](https://www.npmjs.com/package/raphael)
+- [sat](https://www.npmjs.com/package/sat)
+- [spectrum](https://github.com/bgrins/spectrum)
+- [Font Awesome](https://fontawesome.com/v4.7.0/)
 
 ##### Apache-2.0 license.
 The following libraries use the Apache-2.0 licenses.
 - [less](https://www.npmjs.com/package/less)
 
+##### Apache-2.0 WITH LLVM-exception
+- [mousetrap](https://www.npmjs.com/package/mousetrap)
 
+##### MIT Expat license
+- [jshint](https://github.com/jshint/jshint)
 
+##### etc.
+- [csslint](https://github.com/CSSLint/csslint)
 
 
 
