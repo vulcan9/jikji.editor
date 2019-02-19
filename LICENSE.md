@@ -1,7 +1,7 @@
 ## Jik-ji Editor License
 
 ##### MIT license.
-* Jik-ji Editor : <https://github.com/vulcan9/jik-ji/blob/master/Jik-ji%20Editor%20LICENSE>
+* [Jik-ji Editor](https://github.com/vulcan9/jik-ji/blob/master/Jik-ji%20Editor%20LICENSE)
 
 ## Open source Librarise
 아래 내용에서 Jik-ji Editor에 사용된 개별 오픈 소스들에 대한 License를 확인하세요.
